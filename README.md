@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student  
 🚀 GSoC Aspirant  
-💻 Backend & Cloud Enthusiast  
+💻 AI & Backend Enthusiast  
 
 ---
 
