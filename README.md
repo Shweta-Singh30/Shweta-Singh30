@@ -63,5 +63,5 @@ High Availability infrastructure setup with load balancing concepts.
 
 ## 📫 Connect With Me
 
-LinkedIn: 
+LinkedIn:.. 
 Email: b220033@nitsikkim.ac.in
