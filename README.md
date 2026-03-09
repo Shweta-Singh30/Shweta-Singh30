@@ -33,6 +33,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shweta-Singh30&show_icons=true&theme=radical&cache_seconds=1800)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Singh30&layout=compact&theme=radical&cache_seconds=1800)
+## 📊 GitHub Activity
+🔗 [View my repositories](https://github.com/Shweta-Singh30?tab=repositories)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shweta-Singh30&color=blueviolet&style=flat-square)
